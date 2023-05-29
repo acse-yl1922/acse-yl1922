@@ -1,16 +1,18 @@
-### Hi there 👋
+import KennardWang as KW
 
-<!--
-**acse-yl1922/acse-yl1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def myself():
+    major = "MSc Applied Computational Science and Engineering"
+    platforms = {"Windows", "Ubuntu Linux", "MacOS"}
+    languages = { 
+        "frontend": ["HTML5", "CSS3", "Javascript", "Markdown", "Latex"],
+        "backend": ["Python", "C++", "C#", "Java"],
+        "framework": ["Bootstrap", "ASP.NET", "Django"],
+        "databse": "SQL"
+    }
+    ides = {"Pycharm", "VSCode", "Visual Studio", "Eclipse"}
+    tools = {"Git", "GitHub", "SQLite", "Unity"}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == "__main__":
+    myself()
+    
