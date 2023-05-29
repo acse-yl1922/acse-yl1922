@@ -29,6 +29,7 @@ if __name__ == "__main__":
     myself()
     
 ``` 
+``` Markdown
 # Course Structure
 
 1. Modern Programming Methods
@@ -59,7 +60,7 @@ if __name__ == "__main__":
    - Explore basic concepts of parallel programming and learn implementation strategies based on shared-memory parallelism and the message-passing paradigm.
 
 Website: [Applied Computational Science](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-computational-science/)
-
+``` 
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
