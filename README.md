@@ -29,6 +29,37 @@ if __name__ == "__main__":
     myself()
     
 ``` 
+# Course Structure
+
+1. Modern Programming Methods
+   - Learn how to produce and validate software for research and carry out test-driven software development and continuous integration.
+
+2. Computational Mathematics
+   - Explore the essential mathematics underpinning computational science, data science, and machine learning.
+
+3. Applying Computational/Data Science
+   - Work collaboratively to solve problems using software and summarize your work using presentations.
+
+4. Data Science and Machine Learning
+   - Analyze concepts central to a data science approach and different types of classical machine learning algorithms.
+
+5. Deep Learning
+   - Discover how to describe and critique the main categories of machine learning methods.
+
+6. Modelling and Numerical Methods
+   - Become familiar with the key concepts and algorithms required to represent the continuous world on discrete computers.
+
+7. Advanced Programming
+   - Analyze how to develop and build C programs under both Windows and Linux operating systems and examine memory handling concepts.
+
+8. Inversion and Optimisation
+   - Examine the methods that can be used to extract useful information from incomplete, inconsistent, and inaccurate physical datasets using practical computational resources.
+
+9. Patterns for Parallel Programming
+   - Explore basic concepts of parallel programming and learn implementation strategies based on shared-memory parallelism and the message-passing paradigm.
+
+Website: [Applied Computational Science](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-computational-science/)
+
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
