@@ -1,10 +1,10 @@
 <div align="center">
     <a href="https://github.com/acse-yl1922?tab=followers">
-        <img src="https://img.shields.io/github/followers/KennardWang?colorA=1e1e28&colorB=bface6&logo=Github&style=for-the-badge" />
+        <img src="https://img.shields.io/github/followers/acse-yl1922?colorA=1e1e28&colorB=bface6&logo=Github&style=for-the-badge" />
     </a>
     <br><br>
     <p align="center">
-      <img src="https://profile-counter.glitch.me/KennardWang/count.svg" />
+      <img src="https://profile-counter.glitch.me/acse-yl1922/count.svg" />
     </p>
 </div><br>
 
@@ -17,13 +17,13 @@ def myself():
     major = "MSc Applied Computational Science and Engineering"
     platforms = {"Windows", "Ubuntu Linux", "MacOS"}
     languages = { 
-        "frontend": ["HTML5", "CSS3", "Javascript", "Markdown", "Latex"],
+        "frontend": ["Markdown", "Latex"],
         "backend": ["Python", "C++", "CMake", "MatLab"]
         "databse": "SQL"
     }
     ides = {"Pycharm", "VSCode", "Visual Studio", "Eclipse"}
     tools = {"Git", "GitHub", "SQLite", "Unity"}
-
+    likes = {"maths","network", "AI", "physics"}
 
 if __name__ == "__main__":
     myself()
