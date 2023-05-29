@@ -18,7 +18,7 @@ def myself():
     platforms = {"Windows", "Ubuntu", "MacOS"}
     languages = { 
         "frontend": ["Markdown", "Latex"],
-        "backend": ["Python", "C++", "CMake", "MatLab",Rust],
+        "backend": ["Python", "C++"],
         "databse": "SQL",
         "ML Framework":["sklearn","pytorch"],
     }
