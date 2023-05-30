@@ -23,8 +23,8 @@ def myself():
         "ML Framework":["sklearn","pytorch"],
     }
     strategies ={"Inversion", "Optimization", "Parallelization"}
-    ides = {"Pycharm", "VSCode", "Visual Studio", "Eclipse"}
-    tools = {"Git", "GitHub", "SQLite", "Unity"}
+    ides = {"Pycharm", "VSCode", "Visual Studio", "Eclipse",}
+    tools = {"Git", "GitHub", "SQLite", "Unity","VMWare"}
     likes = {"maths","network", "AI", "physics"}
     
 if __name__ == "__main__":
