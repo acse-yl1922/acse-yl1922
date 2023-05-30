@@ -22,6 +22,7 @@ def myself():
         "databse": "SQL",
         "ML Framework":["sklearn","pytorch"],
     }
+    strategies ={"Inversion", "Optimization", "Parallelization"}
     ides = {"Pycharm", "VSCode", "Visual Studio", "Eclipse"}
     tools = {"Git", "GitHub", "SQLite", "Unity"}
     likes = {"maths","network", "AI", "physics"}
