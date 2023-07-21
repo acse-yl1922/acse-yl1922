@@ -1,4 +1,3 @@
-```Markdown
 <div align="center">
     <a href="https://github.com/acse-yl1922?tab=followers">
         <img src="https://img.shields.io/github/followers/acse-yl1922?colorA=1e1e28&colorB=bface6&logo=Github&style=for-the-badge" />
