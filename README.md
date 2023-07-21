@@ -1,3 +1,4 @@
+```Markdown
 <div align="center">
     <a href="https://github.com/acse-yl1922?tab=followers">
         <img src="https://img.shields.io/github/followers/acse-yl1922?colorA=1e1e28&colorB=bface6&logo=Github&style=for-the-badge" />
@@ -8,8 +9,6 @@
     </p>
 </div><br>
 
-<div style="width: 10px;"></div>
-
 ```Python
 import Yongqi.Li as YL
 
@@ -19,7 +18,7 @@ def myself():
     languages = { 
         "frontend": ["Markdown", "Latex"],
         "backend": ["Python", "C++","Java"],
-        "databse": "SQL",
+        "database": "SQL",
         "ML Framework":["sklearn","pytorch"],
     }
     strategies ={"Inversion", "Optimization", "Parallelization"}
@@ -29,12 +28,16 @@ def myself():
     
 if __name__ == "__main__":
     myself()
-    
-```
+``` 
+
 ## 💼 Projects
 
 - 🧠 **Firedrake and Pytorch Project**: Participated in the development of a framework coupling the machine learning library PyTorch and the PDE system Firedrake. The framework enabled the efficient specification of hybrid models coupling PDEs and machine learning, providing a novel way to solve inverse problems. More specifically, we tackled a 2D heat conductivity inverse problem.
-```
+
+<hr>
+
+<div style="width: 10px;"></div>
+
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
@@ -46,7 +49,6 @@ if __name__ == "__main__":
 <img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=unity&text=false&animation=spin&fill=black&textfill=bface6&">
-    
     
 <hr>
 
@@ -62,20 +64,5 @@ if __name__ == "__main__":
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=acse-yl1922&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
-<!--   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/acse-yl1922">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=acse-yl1922&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-  </a>
-  &nbsp;&nbsp;
-    <a href="https://github.com/acse-yl1922">
-    <img align="center"
-         height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=acse-yl1922&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a> -->
 </p>
-
-
-
+```
