@@ -30,7 +30,11 @@ def myself():
 if __name__ == "__main__":
     myself()
     
-``` 
+```
+## 💼 Projects
+
+- 🧠 **Firedrake and Pytorch Project**: Participated in the development of a framework coupling the machine learning library PyTorch and the PDE system Firedrake. The framework enabled the efficient specification of hybrid models coupling PDEs and machine learning, providing a novel way to solve inverse problems. More specifically, we tackled a 2D heat conductivity inverse problem.
+```
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
