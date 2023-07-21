@@ -31,8 +31,12 @@ if __name__ == "__main__":
 
 ## 💼 Projects
 
-- 🧠 **Firedrake and Pytorch Project**: Participated in the development of a framework coupling the machine learning library PyTorch and the PDE system Firedrake. The framework enabled the efficient specification of hybrid models coupling PDEs and machine learning, providing a novel way to solve inverse problems. More specifically, we tackled a 2D heat conductivity inverse problem.
+- 🧠 **Firedrake and Pytorch Project**: Participated in the development of a framework coupling the machine learning library PyTorch and the PDE system Firedrake and studied goal oriented mesh adaptive refinement based on Riemannian metric.
+- 💡 **Solve NS Equation in Parallel**: Model a Newtonian Fluid in a tube and simulate it with cpp; code parallelization implemented with MPI
+- 🌏 **A virtual solar system and Armageddon forcast**: Use classical numerical methods like Euler, Rk4 and lagrange interpolation to simulate real life problems in Astrophysics
+- 🔍**Detecting impact craters using DL techniques**: Automatically detecting impact craters in images of planetary surfaces (Mars and Moon) and deriving from this a crater-size frequency distribution that can be used for dating and a GAN to generate more image data.
 
+**
 <hr>
 
 <div style="width: 10px;"></div>
